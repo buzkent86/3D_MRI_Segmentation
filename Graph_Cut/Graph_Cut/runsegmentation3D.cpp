@@ -1,8 +1,4 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////
-
-
-
-
 //////////////////////////////////////////////////////////////////////////////
 // Example illustrating the use of GCoptimization.cpp
 //
@@ -45,7 +41,7 @@ using namespace cv;
 void GridGraph_Individually(cv::Mat image,int width,int height,int num_pixels,int num_labels)
 {
     
-	int *result = new int[num_pixels];   // stores result of optimization
+    int *result = new int[num_pixels];   // stores result of optimization
     int Datacost; float intensity;       // stores data costs and intensity values of my pixels
     
 	try{

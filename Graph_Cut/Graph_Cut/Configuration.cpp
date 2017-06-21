@@ -5,7 +5,6 @@
 //  Created by Burak Uzkent on 9/11/14.
 //  Copyright (c) 2014 company. All rights reserved.
 //
-
 #include "DataSmoothCost.h"
 #include "Configuration.h"
 #include "GCoptimization.h"
