@@ -1,6 +1,7 @@
 ## 3D_MRI_Segmentation
 
 This repository contains the 3-D Cardiac Segmentation code for our work shown below.
+
 	@inproceedings{uzkent20143,
   		title={3-D MRI cardiac segmentation using graph cuts},
   		author={Uzkent, Burak and Hoffman, Matthew J and Cherry, Elizabeth and Cahill, Nathan},
@@ -23,4 +24,4 @@ This code is built on top of the Multi-label optimization work from the  paper:
   		publisher={Springer}
 	}
 
-Please contact me at [`uzkent.burak@gmail.com`] for more details.
+Please contact me at `uzkent.burak@gmail.com` for more details.
